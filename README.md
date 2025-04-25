@@ -46,13 +46,13 @@ To run the notebook locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Safa-Ali-Ahmed/EDA-OnlineRetail-Python-Analysis.git
    cd your-repo-name
    ```
 
 2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+   ``you should install required libiraries like pandas,matplotlib,numpy and python in the first place if you will use VS code but you can use GoogleColab and there is no need for installing any thing
+ 
    ```
 
 3. Launch the notebook:
@@ -60,11 +60,21 @@ To run the notebook locally:
    jupyter notebook EDA-for-OnlineRetail.ipynb
    ```
 
-## 📌 Requirements
-You can generate a `requirements.txt` file using:
-```bash
-pip freeze > requirements.txt
-```
+## Feedback
+
+If you have any suggestions or feedback, feel free to open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/safaali-da/).
+
+---
+
+## Future Enhancements
+- Integration with live data sources.
+- Advanced machine learning insights using Python/R integration.
+- Adding more custom visuals for deeper analysis.
+---
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+
 
 ## 📄 License
 This project is open source and available under the [MIT License](LICENSE).
